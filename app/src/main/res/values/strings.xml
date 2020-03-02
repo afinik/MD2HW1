@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="title_activity_second">Image view</string>
+    <string name="Button1Name">Image view</string>
+    <string name="Button2Name">Exit</string>
+
+</resources>
